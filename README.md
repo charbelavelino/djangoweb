@@ -1,4 +1,4 @@
-# Building-a-Personal-Portfolio-with-Django.
+# Building-a-Personal-Portfolio-with-Django
 
 # Installing env 
 python -m venv env
