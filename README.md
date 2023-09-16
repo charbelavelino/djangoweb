@@ -13,4 +13,6 @@ pip install django
  django-admin startproject nandiasgarden
 
 <!--/workspaces/djangoweb/portfolio-prj/manage.py runserver -->
+# Moving the file into the project
+
 mv nandiasgarden/nandiasgarden-project
